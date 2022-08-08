@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prophesaw
 - 👀 I’m interested in Back-end development
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP laravel
 - 💞️ I’m looking to collaborate on an open source project for now
 - 📫 How to reach me Twitter:@nurude11,mail: prophesaw@gmail.com
 - 💪 Strength in Java desktop app development
