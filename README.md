@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [nacos-pay](https://github.com/prophesaw/nacos-pay)
 
-- 🌱 I’m currently learning **Express Nodejs**
+- 🌱 I’m currently learning **Python Flask**
 
 - 👯 I’m looking to collaborate on **Still-Searching**
 
